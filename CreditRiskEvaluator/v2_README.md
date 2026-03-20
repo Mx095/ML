@@ -7,14 +7,16 @@ The Same CreditRiskEvaluator Model that extends into concepts like precision, re
 Used RandomForestClassifier, Classification_Report and Confusion matrix 
 
 ## Results :
-Row - 0 : Borrowers who repaid
-Row - 1 : Borrowers who defaulted
+**Row - 0** : Borrowers who repaid
+**Row - 1** : Borrowers who defaulted
 
-Precision - 0 : 0.93, 1 : 0.96
+**Precision** - 0 : 0.93, 1 : 0.96
 
-Recall - 0 : 0.99, 1 : 0.73
+**Recall** - 0 : 0.99, 1 : 0.73
 
-Support - 5105 repaid, 1412 defaulted.
+**Support** - 5105 repaid, 1412 defaulted.
+
+**Overall Accuracy** : 93.2%
 
 ## Tools used :
-matplotlib, seaborn
+Matplotlib, Seaborn, Python, Pandas, Scikit-learn, Jupyter Notebook.
